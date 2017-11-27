@@ -9,7 +9,7 @@ beforeEach(()=>{
      history={
         push:jest.fn()
     }
-     wrapper=shallow(<AddExpensePage onSubmit={onSubmit} history={history}/>)
+ wrapper=shallow(<AddExpensePage onSubmit={onSubmit} history={history}/>)
 });
 test("Should render Add Expense page correctly",()=>{
     
