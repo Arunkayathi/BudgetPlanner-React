@@ -19,11 +19,7 @@
     "enzyme-to-json": "^3.2.2",
     "jest": "^21.2.1",
     "react-test-renderer": "^16.1.1",
-    "webpack-dev-server": "^2.9.3",
-    "serve": "live-server public/ --port=8081",
-    "start":"node server/server.js",
-    "heroku-postbuild":"yarn run build:prod"
-
+    "webpack-dev-server": "^2.9.3"
   },
   "dependencies": {
     "babel": "^6.23.0",
