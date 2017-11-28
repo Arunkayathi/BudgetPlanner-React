@@ -1,7 +1,7 @@
 {
-  "name": "Expensify",
+  "name": "BudgetPlanner",
   "version": "1.0.0",
-  "description": "This application is used when one is unable to decide among a set of choices.It will randomly select one of the options.",
+  "description": "This application is ",
   "main": "app.js",
   "author": "Arun Kayathi",
   "license": "MIT",
