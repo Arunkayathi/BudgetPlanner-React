@@ -1,3 +1,10 @@
 src/playground
 node_modules/
+<<<<<<< HEAD
 public/dist
+=======
+public/bundle.js
+public/style.css
+public/style.css.map
+public/bundle.js.map
+>>>>>>> af30f2b2ae2860f75079159ff9759c5dafbfe8f7
